@@ -1,4 +1,4 @@
-wset = xlsread('C:\Users\Viraj\Desktop\EE577a\Lab\Lab3\Book1.xlsx');
+wset = xlsread('File Directory of the Excel Sheet');
 wset = abs(wset);
 
 RTL = wset(:,1);
